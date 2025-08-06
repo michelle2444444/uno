@@ -93,7 +93,9 @@ Formulario con selección de rol: `Administrador` o `Topógrafo`.
   
   ![Ubicación recibida](https://github.com/user-attachments/assets/a578c270-68c1-4256-a18f-133458320b71)
 
-* Confirmación de guardado <img width="264" height="282" alt="Ubicación guardada" src="https://github.com/user-attachments/assets/2c27d086-7101-4126-9825-9200a2f6cd44" />
+* Confirmación de guardado
+
+<img width="264" height="282" alt="Ubicación guardada" src="https://github.com/user-attachments/assets/2c27d086-7101-4126-9825-9200a2f6cd44" />
 
 ---
 
