@@ -69,7 +69,9 @@ Formulario con selección de rol: `Administrador` o `Topógrafo`.
 
 ### 6. Gestión de usuarios
 
-* Sección **Compañeros** <img width="260" height="377" alt="Compañeros" src="https://github.com/user-attachments/assets/f6535c09-8b20-45f1-8cb9-114c08e73c64" />
+* Sección **Compañeros**
+
+  <img width="260" height="377" alt="Compañeros" src="https://github.com/user-attachments/assets/f6535c09-8b20-45f1-8cb9-114c08e73c64" />
 
 * Sección **Administrar** (solo administradores)
   
